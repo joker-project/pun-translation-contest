@@ -43,3 +43,6 @@ La participation au concours implique la cession aux organisateurs des droits d'
 * Sílvia Araújo (University of Minho, Portugal)
 * Fabio Regattin (Università degli Studi di Udine, Italy)
 * Claudine Borg (University of Malta)
+
+## Contacts
+[contact@joker-project.com](mailto:contact@joker-project.com)
