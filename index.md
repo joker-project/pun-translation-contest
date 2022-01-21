@@ -1,6 +1,6 @@
 # JokeR
 <p align="center">
-  <img src="../banner-concours.png" width="120" height="142">
+  <img src="banner-concours.png" width="120" height="142">
 </p>
 
 [Home](../clef-2022/index)
