@@ -8,7 +8,7 @@
 
 ## Concours
 
-L'objectif de ce concours est de traduire le maximum de jeux de mots dans la liste fournie. 
+L'objectif de ce concours est de traduire le maximum de jeux de mots dans la liste fournie **vers le français**. 
 
 Date limite : **24 février 2022** 23h59 (heure de Paris GMT+1)
 
