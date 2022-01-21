@@ -18,7 +18,7 @@ Les participants seront classés en fonction du **nombre de traductions jugées 
 
 Par exemple, la personne qui envoie 50 traductions jugées valides sera classée avant la personne qui n'en a envoyé que 20. Cependant le jury pourra également décerner un **prix aux meilleures traductions**, quel que soit le nombre de traductions envoyées. 
 
-Les participants **peuvent choisir** les jeux de mots à traduire dans la liste fournie. Il n'y a pas d'ordre à respecter. Les traductions **peuvent être modifiées après leur envoie jusqu’à la date limite** en suivant le lien  reçu dans le mail de confirmation d'envoi.
+Les participants **peuvent choisir** les jeux de mots à traduire dans la liste fournie. Il n'y a pas d'ordre à respecter. Les traductions **peuvent être modifiées après leur envoi jusqu’à la date limite** en suivant le lien  reçu dans le mail de confirmation d'envoi.
 
 La participation au concours implique la cession aux organisateurs des droits d'auteur sur les traductions produites et l'acceptation du [règlement](Réglement-concours-joker.pdf).
 
