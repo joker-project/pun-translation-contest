@@ -1,37 +1,45 @@
-## Welcome to GitHub Pages
+# JokeR
+<p align="center">
+  <img src="../clef-2022/img/Joker.png" width="120" height="142">
+</p>
 
-You can use the [editor on GitHub](https://github.com/joker-project/pun-translation-contest/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+[Home](clef-2022/index)
+<br>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Contest
 
-### Markdown
+L'objectif de ce concours est de traduire le maximum de jeux de mots dans la liste fournie. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Date limite : **24 février 2022** 23h59 (heure de Paris GMT+1)
 
-```markdown
-Syntax highlighted code block
+Les participants seront classés en fonction du **𝐧𝐨𝐦𝐛𝐫𝐞 𝐝𝐞 𝐭𝐫𝐚𝐝𝐮𝐜𝐭𝐢𝐨𝐧𝐬 𝐣𝐮𝐠é𝐞𝐬 𝐯𝐚𝐥𝐢𝐝𝐞𝐬**. La traduction d’un jeu de mots est considérée comme une traduction valide si :
+- elle préserve le champ sémantique du texte d’origine
+- elle contient une forme de jeu de mots 
 
-# Header 1
-## Header 2
-### Header 3
+Par exemple, la personne qui envoie 50 traductions jugées valides sera classée avant la personne qui n'en a envoyé que 20. Cependant le jury pourra également décerner un **𝐩𝐫𝐢𝐱 𝐚𝐮𝐱 𝐦𝐞𝐢𝐥𝐥𝐞𝐮𝐫𝐞𝐬 𝐭𝐫𝐚𝐝𝐮𝐜𝐭𝐢𝐨𝐧𝐬**, quel que soit le nombre de traductions envoyées. 
 
-- Bulleted
-- List
+Les participants **𝐩𝐞𝐮𝐯𝐞𝐧𝐭 𝐜𝐡𝐨𝐢𝐬𝐢𝐫** les jeux de mots à traduire dans la liste fournie. Il n'y a pas d'ordre à respecter. Les traductions **𝐩𝐞𝐮𝐯𝐞𝐧𝐭 ê𝐭𝐫𝐞 𝐦𝐨𝐝𝐢𝐟𝐢é𝐞𝐬 𝐚𝐩𝐫è𝐬 𝐥𝐞𝐮𝐫 𝐞𝐧𝐯𝐨𝐢 jusqu’à la date limite** en suivant le lien  reçu dans le mail de confirmation d'envoi.
 
-1. Numbered
-2. List
+La participation au concours implique la cession aux organisateurs des droits d'auteur sur les traductions produites et l'acceptation du [règlement](Réglement-concours-joker.pdf).
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+## Formulaire du concours
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+[https://forms.gle/Sp1NTG4YMVk29HMd9](https://forms.gle/Sp1NTG4YMVk29HMd9)
 
-### Jekyll Themes
+### Contest organizers
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/joker-project/pun-translation-contest/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+* Liana Ermakova (UBO)
+* Benoît Jeanjean (UBO)
+* Gaëlle Le Corre (UBO)
+* Élise Mathurin (UBO)
+* Caroline Comacle (UBO)
+* Mohamed Saki (UBO)
+* Jean-Yves Le Disez (UBO)
+* Helen McCombie (BTU)
+* Sébastien de Villèle (BTU)
+* Catherine Davis (BTU)
+* Radia Hannachi (UBS)
+* Sílvia Araújo (University of Minho, Portugal)
+* Fabio Regattin (Università degli Studi di Udine, Italy)
+* Claudine Borg (University of Malta)
