@@ -6,7 +6,7 @@
 [Home](../clef-2022/index)
 <br>
 
-## Contest
+## Concours
 
 L'objectif de ce concours est de traduire le maximum de jeux de mots dans la liste fournie. 
 
@@ -27,7 +27,7 @@ La participation au concours implique la cession aux organisateurs des droits d'
 
 [https://forms.gle/Sp1NTG4YMVk29HMd9](https://forms.gle/Sp1NTG4YMVk29HMd9)
 
-## Contest organizers
+## Organisateurs
 
 * Liana Ermakova (UBO)
 * Benoît Jeanjean (UBO)
