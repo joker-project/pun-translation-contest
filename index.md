@@ -10,12 +10,12 @@
 ### Lauréat
 * Jean-Charles MEUNIER
 
-### Catégorie " Meilleure traduction ":
+### Catégorie " Meilleure traduction "
 * Romane RULLIER
 * Jean-Charles MEUNIER
 * Michel DELARCHE
 
-### Catégorie " Prix spécial ":
+### Catégorie " Prix spécial "
 * Noémie VANDENBORRE et Charlotte DANIEL
 * Emma OLIVIER
 
