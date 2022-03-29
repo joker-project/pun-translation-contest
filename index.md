@@ -19,6 +19,8 @@
 * Noémie VANDENBORRE et Charlotte DANIEL
 * Emma OLIVIER
 
+[Liste des participant.e.s](./Concours JDM - liste des participants.pdf)
+
 ## Concours
 
 L'objectif de ce concours est de traduire le maximum de jeux de mots dans la liste fournie **vers le français**. 
