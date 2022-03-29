@@ -15,7 +15,7 @@
 * Jean-Charles MEUNIER
 * Michel DELARCHE
 
-### Catégorie " Prix spécial du jury ":
+### Catégorie " Prix spécial ":
 * Noémie VANDENBORRE et Charlotte DANIEL
 * Emma OLIVIER
 
