@@ -6,6 +6,19 @@
 [Home](../clef-2022/index)
 <br>
 
+## Prix
+### Lauréat
+* Jean-Charles MEUNIER
+
+### Catégorie " Meilleure traduction ":
+* Romane RULLIER
+* Jean-Charles MEUNIER
+* Michel DELARCHE
+
+### Catégorie " Prix spécial du jury ":
+* Noémie VANDENBORRE et Charlotte DANIEL
+* Emma OLIVIER
+
 ## Concours
 
 L'objectif de ce concours est de traduire le maximum de jeux de mots dans la liste fournie **vers le français**. 
