@@ -13,7 +13,7 @@ L'objectif de ce concours est de traduire le maximum de jeux de mots dans la lis
 
 Date limite : **11 septembre 2022** 23h59 (heure de Paris GMT+1)
 
-**Attention ! L'envoie de Google forme n'est pas automatique ! N'oubliez pas d' envoyer la forme !**
+**Attention ! L'envoie de Google forme n'est pas automatique ! N'oubliez pas d' envoyer les formes !**
 
 Les traductions **peuvent être modifiées** après leur envoi jusqu’à la date limite en suivant le lien reçu dans le **mail de confirmation** d'envoi.
 
@@ -31,8 +31,8 @@ La participation au concours implique la cession aux organisateurs des droits d'
 ## Formulaire du concours
 
 Dépôt de candidature doit être faite via les Google Forms: 
-partie 1/2: [https://forms.gle/eM7Un6Pyv1ccR6fi9](https://forms.gle/eM7Un6Pyv1ccR6fi9)    
-partie 2/2: [https://forms.gle/mEcYiE3Z3y9LuJeo8](https://forms.gle/mEcYiE3Z3y9LuJeo8)    
+* partie 1/2: [https://forms.gle/eM7Un6Pyv1ccR6fi9](https://forms.gle/eM7Un6Pyv1ccR6fi9)    
+* partie 2/2: [https://forms.gle/mEcYiE3Z3y9LuJeo8](https://forms.gle/mEcYiE3Z3y9LuJeo8)    
 
 
 ## Contacts
