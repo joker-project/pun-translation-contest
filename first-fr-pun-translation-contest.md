@@ -3,7 +3,7 @@
   <img src="banner-concours.png">
 </p>
 
-[Home](./index) | [JOKER project](../clef-2022/index)
+[All pun translation contests](./index) | [JOKER project](../clef-2022/index)
 <br>
 
 ## Prix
