@@ -3,7 +3,7 @@
   <img src="banner-concours.png">
 </p>
 
-[Home](../clef-2022/index)
+[Home](./index) | [JOKER project](../clef-2022/index)
 <br>
 
 ## Prix
