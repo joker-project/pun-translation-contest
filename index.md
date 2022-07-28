@@ -1,5 +1,5 @@
 
-[Home](./index) | [JOKER project](../clef-2022/index)
+[All pun translation contests](./index) | [JOKER project](../clef-2022/index)
 <br>
 
 * [First French Pun Translation Contest](./first-fr-pun-translation-contest)
