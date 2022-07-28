@@ -27,7 +27,7 @@ Par exemple, la personne qui envoie 50 traductions jugées valides sera classée
 
 Les participants **peuvent choisir** les jeux de mots à traduire dans la liste fournie. Il n'y a pas d'ordre à respecter. 
 
-La participation au concours implique la cession aux organisateurs des droits d'auteur sur les traductions produites et l'acceptation du [règlement](Réglement-concours-joker.pdf).
+La participation au concours implique la cession aux organisateurs des droits d'auteur sur les traductions produites et l'acceptation du [règlement](Réglement-concours-joker- UBO-juillet-2022.pdf).
 
 
 ## Formulaire du concours
