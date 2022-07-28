@@ -11,6 +11,8 @@
 
 L'objectif de ce concours est de traduire le maximum de jeux de mots dans la liste fournie **vers le français**. 
 
+Ce concours est réservé aux étudiant.e.s de l’Université de Bretagne Occidentale. Si vous n'êtes pas étudiant.e de l’Université de Bretagne Occidentale, vous pouvez participer au concours générique (voir [All pun translation contests](../index)).
+
 Date limite : **11 septembre 2022** 23h59 (heure de Paris GMT+1)
 
 **Attention ! L'envoie de Google forme n'est pas automatique ! N'oubliez pas d' envoyer la forme !**
