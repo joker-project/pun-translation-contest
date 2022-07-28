@@ -11,7 +11,7 @@
 
 L'objectif de ce concours est de traduire le maximum de jeux de mots dans la liste fournie **vers le français**. 
 
-Ce concours est réservé aux étudiant.e.s de l’Université de Bretagne Occidentale. Si vous n'êtes pas étudiant.e de l’Université de Bretagne Occidentale, vous pouvez participer au concours générique (voir la [liste des concours de la traduction de jeux de mots](../index)).
+Ce concours est réservé aux étudiant.e.s de l’Université de Bretagne Occidentale. Si vous n'êtes pas étudiant.e de l’Université de Bretagne Occidentale, vous pouvez participer au concours générique (voir la [liste des concours de traduction de jeux de mots](../index)).
 
 Date limite : **11 septembre 2022** 23h59 (heure de Paris GMT+1)
 
