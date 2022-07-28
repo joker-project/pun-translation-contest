@@ -32,7 +32,7 @@ La participation au concours implique la cession aux organisateurs des droits d'
 
 ## Formulaire du concours
 
-[https://forms.gle/Sp1NTG4YMVk29HMd9](https://forms.gle/Sp1NTG4YMVk29HMd9)
+[https://forms.gle/5NhLH9TfTR8osuMGA](https://forms.gle/5NhLH9TfTR8osuMGA)
 
 
 ## Contacts
