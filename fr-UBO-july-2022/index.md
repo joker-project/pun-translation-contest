@@ -37,3 +37,8 @@ La participation au concours implique la cession aux organisateurs des droits d'
 
 ## Contacts
 [contact@joker-project.com](mailto:contact@joker-project.com)
+
+## Remerciement
+Ce projet a bénéficié d'une aide de l'état gérée par l'Agence Nationale de la Recherche au titre du programme « Investissements d'avenir » portant la Référence ANR-19-GURE-0001.
+
+JokeR est labellisé par la Maison des Sciences de l'Homme en Bretagne.
