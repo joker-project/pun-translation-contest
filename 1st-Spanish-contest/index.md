@@ -24,7 +24,7 @@ Por ejemplo, la persona que envíe 50 traducciones válidas se clasificará por 
 
 Los participantes **pueden elegir** los juegos de palabras a traducir de la lista proporcionada. No se ocupa seno tiene ningún orden. 
 
-La participación en el concurso implica la cesión a los organizadores de los derechos de autor de las traducciones realizadas y la aceptación del [reglemento](concours-joker- ALL-juillet-2022.pdf).
+La participación en el concurso implica la cesión a los organizadores de los derechos de autor de las traducciones realizadas y la aceptación del [reglemento](https://github.com/joker-project/pun-translation-contest/blob/gh-pages/1st-Spanish-contest/concurso-joker-All-julio-2022.pdf).
 
 
 ## Formulario de concurso
