@@ -1,4 +1,4 @@
-# JokeR pun translation contest series
+# JOKER pun translation contest series
 
 [All pun translation contests](./index) | [JOKER project](https://www.joker-project.com/)
 <br>
