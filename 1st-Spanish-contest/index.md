@@ -1,4 +1,6 @@
-# Concurso *«Traducción de Juegos de Palabras»*
+# JokeR
+
+## Concurso *«Traducción de Juegos de Palabras»*
 
 [All pun translation contests](../index) | [JOKER project](../../clef-2022/index)
 <br>
