@@ -1,10 +1,10 @@
 
-# JokeR
+# JOKER
 
 ## Concours *Traduction de Jeux de Mots*
 ## Université de Bretagne Occidentale - Juillet 2022
 
-[All pun translation contests](../index) | [JOKER project](../../clef-2022/index)
+[All pun translation contests](../index) | [JOKER project](https://www.joker-project.com/)
 <br>
 
 ## Concours
@@ -41,4 +41,4 @@ La participation au concours implique la cession aux organisateurs des droits d'
 ## Remerciement
 Ce projet a bénéficié d'une aide de l'état gérée par l'Agence Nationale de la Recherche au titre du programme « Investissements d'avenir » portant la Référence ANR-19-GURE-0001.
 
-JokeR est labellisé par la Maison des Sciences de l'Homme en Bretagne.
+JOKER est labellisé par la Maison des Sciences de l'Homme en Bretagne.
