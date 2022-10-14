@@ -1,10 +1,10 @@
 
-# JokeR
+# JOKER
 
 ## 2e concours *Traduction de Jeux de Mots*
 
 
-[All pun translation contests](../index) | [JOKER project](../../clef-2022/index)
+[All pun translation contests](../index) | [JOKER project](https://www.joker-project.com/)
 <br>
 
 ## Concours
@@ -41,4 +41,4 @@ Dépôt de candidature doit être faite via les Google Forms:
 ## Remerciement
 Ce projet a bénéficié d'une aide de l'état gérée par l'Agence Nationale de la Recherche au titre du programme « Investissements d'avenir » portant la Référence ANR-19-GURE-0001.
 
-JokeR est labellisé par la Maison des Sciences de l'Homme en Bretagne.
+JOKER est labellisé par la Maison des Sciences de l'Homme en Bretagne.
