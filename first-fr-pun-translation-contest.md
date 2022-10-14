@@ -1,9 +1,9 @@
-# JokeR
+# JOKER
 <p align="center">
   <img src="banner-concours.png">
 </p>
 
-[All pun translation contests](./index) | [JOKER project](../clef-2022/index)
+[All pun translation contests](./index) | [JOKER project](https://www.joker-project.com/)
 <br>
 
 ## Prix
