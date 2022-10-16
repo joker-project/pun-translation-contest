@@ -4,7 +4,7 @@
 <br>
 
 Open contests:
-
+* [1-st Spanish Pun Translation contest](./1st-Spanish-contest)
 
 Past events:
 * [UBO French Pun Translation Contest - July 2022](./fr-UBO-july-2022/)
