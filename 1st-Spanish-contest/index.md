@@ -52,7 +52,7 @@ El jurado del Concurso de Traducción de los Juegos de Palabras será constituid
 
 ### ARTÍCULO 6 - Premios
 
-Los ganadores de cada categoría recibirán premios y certificados. Además, los resultados se publicarán en el sitio web del proyecto: [http://www.JOKER-project.com/](http://www.JOKER-project.com/)
+Los ganadores de cada categoría recibirán premios y certificados. Además, los resultados se publicarán en el sitio web del proyecto: [http://www.joker-project.com](http://www.joker-project.com)
 
 ### ARTÍCULO 7 - Publicación
 
