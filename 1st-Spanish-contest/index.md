@@ -10,9 +10,11 @@
 * parte 1/2: [https://forms.gle/Y2USAqfzzCAQgoa78](https://forms.gle/Y2USAqfzzCAQgoa78)    
 * parte 2/2: [https://forms.gle/3B4zNSgk3xxS1FsE9](https://forms.gle/3B4zNSgk3xxS1FsE9)    
 
+Contacte con nosotros: *contact at joker-project dot com*
+
 ## Reglamento y condiciones para participar
 
-La Universidad de Bretaña Occidental (Université de Bretagne Occidentale, Brest, France), en colaboración con la Universidad de Cádiz y el CIC del Instituto Politécnico Nacional de México (en adelante, los "Organizadores"), lanzan un concurso de traducción de juegos de palabras en el marco del proyecto *JOKER II: Towards automatisation of analysis of perception and localization of humour* (www.JOKER-project.com/).
+La Universidad de Bretaña Occidental (Université de Bretagne Occidentale, Brest, France), en colaboración con la Universidad de Cádiz y el CIC del Instituto Politécnico Nacional de México (en adelante, los "Organizadores"), lanzan un concurso de traducción de juegos de palabras en el marco del proyecto *JOKER II: Towards automatisation of analysis of perception and localization of humour* [www.joker-project.com](www.joker-project.com).
 
 ### ARTÍCULO  1 - Participantes
 
