@@ -5,7 +5,8 @@
 [All pun translation contests](../index) | [JOKER project](https://www.joker-project.com/)
 <br>
 
-*Fecha límite: 25 de noviembre de 2022 23h59 (hora de París GMT+1)*
+*Fecha límite: **25 de noviembre de 2022 23h59** (hora de París GMT+1)*
+
 *La solicitud debe realizarse a través de Google Forms:*
 * parte 1/2: [https://forms.gle/Y2USAqfzzCAQgoa78](https://forms.gle/Y2USAqfzzCAQgoa78)    
 * parte 2/2: [https://forms.gle/3B4zNSgk3xxS1FsE9](https://forms.gle/3B4zNSgk3xxS1FsE9)    
@@ -42,11 +43,11 @@ Para participar, los candidatos tendrán que rellenar los siguientes formularios
 * parte 1/2: [https://forms.gle/Y2USAqfzzCAQgoa78](https://forms.gle/Y2USAqfzzCAQgoa78)    
 * parte 2/2: [https://forms.gle/3B4zNSgk3xxS1FsE9](https://forms.gle/3B4zNSgk3xxS1FsE9)    
 
-Cualquier infracción de estas condiciones supondrá la exclusión definitiva del candidato. La presentación del formulario es posible hasta el 25 de noviembre de 2022 23h59 (hora de París GMT+1).
+Cualquier infracción de estas condiciones supondrá la exclusión definitiva del candidato. La presentación del formulario es posible hasta el **25 de noviembre de 2022 23h59** (hora de París GMT+1).
 
 Sólo se aceptará una solicitud por candidato.
 
-La presentación puede modificarse en cualquier momento hasta la fecha de cierre del concurso, es decir, el 25 de noviembre de 2022 23h59 (hora de París GMT+1).
+La presentación puede modificarse en cualquier momento hasta la fecha de cierre del concurso, es decir, el **25 de noviembre de 2022 23h59** (hora de París GMT+1).
 
 ### ARTÍCULO 5 - Jurado 
 
