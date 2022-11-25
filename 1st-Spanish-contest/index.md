@@ -5,7 +5,7 @@
 [All pun translation contests](../index) | [JOKER project](https://www.joker-project.com/)
 <br>
 
-*Fecha límite: **25 de noviembre de 2022 23h59** (hora de París GMT+1)*
+*Fecha límite: **~~25 de noviembre de 2022 23h59~~** ***NUEVA FECHA: 2 de diciembre de 2022**(hora de París GMT+1)*
 
 *La solicitud debe realizarse a través de Google Forms:*
 * parte 1/2: [https://forms.gle/Y2USAqfzzCAQgoa78](https://forms.gle/Y2USAqfzzCAQgoa78)    
