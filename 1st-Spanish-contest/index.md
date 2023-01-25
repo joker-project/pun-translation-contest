@@ -18,12 +18,12 @@ Contacte con nosotros: *contact at joker-project dot com*
 La Universidad de Bretaña Occidental (Université de Bretagne Occidentale, Brest, France), en colaboración con la Universidad de Cádiz, Universitat Politècnica de València y el CIC del Instituto Politécnico Nacional de México (en adelante, los "Organizadores"), lanzan un concurso de traducción de juegos de palabras en el marco del proyecto *JOKER II: Towards automatisation of analysis of perception and localization of humour* [www.joker-project.com](www.joker-project.com).
 ## Organizadores
 
-Liana Ermakova (Université de Bretagne Occidentale, Brest, France)
-Victor Manuel Palma Preciado (Instituto Politécnico Nacional, Mexico / Université de Bretagne Occidentale, Brest, France)
-Leopoldo Jesús Gutierrez Galeano (Universidad de Cádiz, Cádiz, España)
-Nathalie Narváez Bruneau (Université de Bretagne Occidentale, Brest, France)
-Rachel Kinlay (Universidad de Cádiz, Cádiz, España)
-Khatima El Krirh Universidad de Cádiz, Cádiz, España)
+Liana Ermakova (Université de Bretagne Occidentale, Brest, France)  
+Victor Manuel Palma Preciado (Instituto Politécnico Nacional, Mexico / Université de Bretagne Occidentale, Brest, France)   
+Leopoldo Jesús Gutierrez Galeano (Universidad de Cádiz, Cádiz, España)  
+Nathalie Narváez Bruneau (Université de Bretagne Occidentale, Brest, France)  
+Rachel Kinlay (Universidad de Cádiz, Cádiz, España) 
+Khatima El Krirh Universidad de Cádiz, Cádiz, España) 
 
 ### ARTÍCULO  1 - Participantes
 
