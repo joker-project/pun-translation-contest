@@ -20,7 +20,8 @@ La Universidad de Bretaña Occidental (Université de Bretagne Occidentale, Bres
 
 Liana Ermakova (Université de Bretagne Occidentale, Brest, France)  
 Victor Manuel Palma Preciado (Instituto Politécnico Nacional, Mexico / Université de Bretagne Occidentale, Brest, France)   
-Leopoldo Jesús Gutierrez Galeano (Universidad de Cádiz, Cádiz, España)  
+Leopoldo Jesús Gutierrez Galeano (Universidad de Cádiz, Cádiz, España) 
+Khatima El Krirh (Universidad de Cádiz, Cádiz, España) 
 Nathalie Narváez Bruneau (Université de Bretagne Occidentale, Brest, France)  
 Rachel Kinlay (Universidad de Cádiz, Cádiz, España) 
 Khatima El Krirh Universidad de Cádiz, Cádiz, España) 
