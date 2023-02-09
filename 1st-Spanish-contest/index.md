@@ -19,7 +19,7 @@ La Universidad de Bretaña Occidental (Université de Bretagne Occidentale, Bres
 ## Organizadores
 
 * Liana Ermakova (Université de Bretagne Occidentale, Brest, France)  
-* Victor Manuel Palma Preciado18 (Instituto Politécnico Nacional, Mexico / Université de Bretagne Occidentale, Brest, France)   
+* Victor Manuel Palma Preciado (Instituto Politécnico Nacional, Mexico / Université de Bretagne Occidentale, Brest, France)   
 * Leopoldo Jesús Gutierrez Galeano (Universidad de Cádiz, Cádiz, España) 
 * Nathalie Narváez Bruneau (Université de Bretagne Occidentale, Brest, France)  
 * Rachel Kinlay (Universidad de Cádiz, Cádiz, España) 
